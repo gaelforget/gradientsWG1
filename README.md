@@ -1,2 +1,5 @@
-# gradientsWG1
+# Scope-Gradients Working Group 1
+
 Bridging observed temporal/spatial variations &amp; processes at various scales
+
+- `README-dataset-template.md` is a template to help document data set folders
