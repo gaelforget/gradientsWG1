@@ -28,7 +28,7 @@ _Note: would point to existing online documentation rather than duplicating it h
 
 ### Product Origin / DOI
 
-[https://cbiomes.readthedocs.io/en/latest/]()
+[Documentation](https://cbiomes.readthedocs.io/en/latest/)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653669.svg)](https://doi.org/10.5281/zenodo.2653669)
 
