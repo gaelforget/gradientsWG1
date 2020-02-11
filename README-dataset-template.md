@@ -2,9 +2,9 @@
 
 # MyDataSet
 
-This folder contains `MyDataSet` -- a _CBIOMES model_ climatology for example.
+This folder contains `MyDataSet` which could be anything really -- a _CBIOMES model_ climatology is used as an example below.
 
-_Note: would keep this statement short & provide detail / links below if needed_ 
+_Note: would keep the opening statement short & report detail / links later if needed_ 
 
 [![DOI](https://zenodo.org/badge/236552159.svg)](https://zenodo.org/badge/latestdoi/236552159)
 
@@ -16,7 +16,7 @@ _Note: would keep this statement short & provide detail / links below if needed_
 
 _Note: a `README.md` file like this one can be included in each subfolder (to document its contents, ..., revision history) and so-on (recursively when subfolders have subfolders)_ 
 
-_Note: the `docs/` and `interp/` subfolder are **not** included in this repo. Examples are available [here](https://www.dropbox.com/sh/7c0rx3hbw80guh9/AADjAX8M-5nPzyYoDOzMKDzxa?dl=0)_
+_Note: examples for the `docs/` and `interp/` subfolders are available [here](https://www.dropbox.com/sh/7c0rx3hbw80guh9/AADjAX8M-5nPzyYoDOzMKDzxa?dl=0)_
 
 ### Summary Description
 
