@@ -1,22 +1,26 @@
 
 
-# CBIOMES-global climatology
+# MyDataSet
 
-This folder contains the `CBIOMES-global` model output `climatology`
+This folder contains `MyDataSet` -- a _CBIOMES model_ climatology for example.
 
 _Note: would keep this statement short & provide detail / links below if needed_ 
+
+[![DOI](https://zenodo.org/badge/236552159.svg)](https://zenodo.org/badge/latestdoi/236552159)
 
 ### Folder Contents
 
 - `README.md` is this file
 - `docs/` contains documentation, including papers cited below, ... 
-- `interp/` contains monthly output interpolated to a 1/2 degree grid ...
+- `interp/` contains the _CBIOMES model_ climatology interpolated to a 1/2 degree grid ...
 
-_Note: such a `README.md` file can be included in each subfolder (to document its contents, ..., revision history) and so-on in recursive fashion if these subfolders have subfolders_ 
+_Note: a `README.md` file like this one can be included in each subfolder (to document its contents, ..., revision history) and so-on (recursively when subfolders have subfolders)_ 
+
+_Note: the `docs/` and `interp/` subfolder are **not** included in this repo. Examples are available [here](https://www.dropbox.com/sh/7c0rx3hbw80guh9/AADjAX8M-5nPzyYoDOzMKDzxa?dl=0)_
 
 ### Summary Description
 
-The physical ocean component is based on Forget et al 2015 ... **X.**, **Y.** and **Z.** contributed to the model output post-processing ...
+The CBIOMES model is based on Dutkiewicz et al 2015 and Forget et al 2015. **X.**, **Y.** and **Z.** contributed to the model climatology post-processing ...
 
 For additional information, please visit linked websites or contact `x@y.z.com`
 
@@ -28,7 +32,7 @@ _Note: would point to existing online documentation rather than duplicating it h
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2653669.svg)](https://doi.org/10.5281/zenodo.2653669)
 
-_Note: when data that is either prelimary or proprietary (i.e. not publicly documented or DOI'ed yet) needs to be included, one can instead provide an email (or website) + the date when the original data was last received (or downloaded)_
+_Note: when data that is either prelimary or proprietary (e.g. not yet publicly documented or DOI'ed) needs to be included, then one could instead provide an email / website + the date when the original data was last received / accessed_
 
 ### Software & Workflows
 
@@ -49,5 +53,5 @@ _Note: when data that is either prelimary or proprietary (i.e. not publicly docu
 - `2020/02/01 [Gael Forget]` fix typos
 - `2020/01/30 [Gael Forget]` create this `README.md` template
 
-_Note: such a `README.md` file can be included in each sub-folder, sub-sub-folder, and so-on in recursive fashion. Hence there is no need to document subfolder revisions in detail here_ 
+_Note: a `README.md` file like this one can be included in each sub-folder, sub-sub-folder, and so-on in recursive fashion. Hence there is no need to document subfolder revisions in detail here_ 
 
