@@ -1,6 +1,6 @@
 # Scope-Gradients Working Group 1
 
-[![DOI](https://zenodo.org/badge/236552159.svg)](https://zenodo.org/badge/latestdoi/236552159) [![Generic badge](https://img.shields.io/badge/Download-Gradients-orange.svg)](https://github.com/gaelforget/gradientsWG1/archive/csvfiles.zip)
+[![DOI](https://zenodo.org/badge/236552159.svg)](https://zenodo.org/badge/latestdoi/236552159) [![Generic badge](https://img.shields.io/badge/Download-Gradients-orange.svg)](https://github.com/gaelforget/gradientsWG1/archive/master.zip)
 
 Bridging observed temporal/spatial variations &amp; processes at various scales
 
